@@ -6,7 +6,7 @@
 
 ### 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eratirus&no-bg=true)](https://github.com/Eratirus/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eratirus&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
