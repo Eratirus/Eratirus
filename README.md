@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+Systems+Engineer;Data+Analyst;and+Developer" alt="Typing SVG" /></a>
 
+https://github-profile-trophy.vercel.app/?username=Eratirus&theme=nord
+
 <!--
 **Eratirus/Eratirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
