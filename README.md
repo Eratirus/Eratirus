@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+Systems+Engineer;Data+Analyst;and+Developer" alt="Typing SVG" /></a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eratirus&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eratirus&no-bg=true)](https://github.com/Eratirus/github-profile-trophy)
 
 
 <!--
