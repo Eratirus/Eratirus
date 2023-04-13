@@ -12,8 +12,8 @@
 ## 👤 About me 
 - I'm an Engineer in Computer Systems and Informatics
 - Future Master un Big Data and Data Science
-- 🇪🇨 From Ecuador
-- 25 years
+- From Ecuador
+- June 12, 1998 (25 years)
 
 ## 🔧 Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, C#
@@ -23,21 +23,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,html,css,js,ts,sass,react,nextjs,vite,vscode,svg,markdown)](https://skillicons.dev)
 
-
-<h2> 📊 My Stats </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eratirus&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eratirus&count_private=true)
-
-
 <h2>🏆 Github Profile Trophy </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eratirus&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<h2> 📊 My Stats </h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eratirus&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+![Eratirus GitHub stats](https://github-readme-stats.vercel.app/api?username=Eratirus&count_private=true)
 
-<h2>📞 Contact Me </h2>
-
-
-
-
+<b> REMEMBER: </b> <em>"Everything must be made as simple as possible. But not simpler" 🍃</em>
 
