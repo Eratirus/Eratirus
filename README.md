@@ -11,7 +11,7 @@
 
 ## 👤 About me 
 - I'm an Engineer in Computer Systems and Informatics
-- Future Master un Big Data and Data Science
+- Future Master In Big Data and Data Science
 - From Ecuador
 - June 12, 1998 (25 years)
 
@@ -31,5 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eratirus&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Eratirus GitHub stats](https://github-readme-stats.vercel.app/api?username=Eratirus&count_private=true)
 
-<b> REMEMBER: </b> <em>"Everything must be made as simple as possible. But not simpler" 🍃</em>
+<h2> REMEMBER </h2>
+
+<em>🍃 "Everything must be made as simple as possible. But not simpler" 🍃</em>
 
